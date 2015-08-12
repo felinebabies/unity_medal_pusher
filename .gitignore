@@ -1,0 +1,11 @@
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+/obj
+/*.csproj
+/*.suo
+/Assembly-UnityScript-firstpass.dll
+/Assembly-UnityScript-firstpass.pdb
